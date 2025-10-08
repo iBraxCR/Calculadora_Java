@@ -9,12 +9,28 @@ package calculadoragui;
  * @author Lenovo
  */
 public class CalculadoraGUI {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    
+    private int sumar(int a, int b) {
+    
+    return a +b;
     }
+    
+    private int multiplicar(int a, int b) {
+    
+    return a *b;
+    }
+    
+    private int restar(int a, int b) {
+    
+    return a - b;
+    }
+    
+    private int dividir(int a, int b) {
+    
+    return a / b;
+    }
+    
+    
+
     
 }

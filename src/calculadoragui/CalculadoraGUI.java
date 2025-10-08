@@ -30,6 +30,11 @@ public class CalculadoraGUI {
     return a / b;
     }
     
+   private double dividir(double a, double b) {
+    
+    return a / b;
+    }
+    
     
 
     
